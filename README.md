@@ -70,4 +70,4 @@ C2 Flexibility: Support for Havoc and Sliver C2 framework integration.
 ⚠️ Disclaimer
 This tool is for educational purposes and authorized penetration testing only. Unauthorized access to computer systems is illegal. Use responsibly.
 
-Release Version: 1.0 (WOOT WOOT!)
+Release Version: 1.0
